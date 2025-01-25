@@ -1,0 +1,9 @@
+{
+  "home": {
+    "searchInput": "textarea[name=q]",
+    "submit": "input[name=btnK]"
+  },
+  "consents": {
+    "AcceptAll": "//button/div[contains(text(),'Accept all')]"
+  }
+}
